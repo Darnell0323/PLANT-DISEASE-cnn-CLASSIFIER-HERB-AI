@@ -12,7 +12,7 @@ Identificar y clasificar enfermedades en cultivos mediante redes convolucionales
 
 ## Dataset
 
-[Plant leave diseases dataset without augmentation][https://data.mendeley.com/public-files/datasets/tywbtsjrjv/files/d5652a28-c1d8-4b76-97f3-72fb80f94efc/file_downloaded] 
+[Plant leave diseases dataset without augmentation](https://data.mendeley.com/public-files/datasets/tywbtsjrjv/files/d5652a28-c1d8-4b76-97f3-72fb80f94efc/file_downloaded)
 
 ## Modelos
 
@@ -30,6 +30,6 @@ Compound scaling, depthwise separable convolutions, transfer learning, lightweig
 
 ## Codigo
 
-1. [Implementacion en colab][https://colab.research.google.com/drive/1-jIcWLvyPKb4BJMt93VJR5kQrrVWQQg3?usp=sharing]
-2. [Video][]
-3. [Diapositivas][]
+1. [Implementacion en colab](https://colab.research.google.com/drive/1-jIcWLvyPKb4BJMt93VJR5kQrrVWQQg3?usp=sharing)
+2. [Video]()
+3. [Diapositivas]()
