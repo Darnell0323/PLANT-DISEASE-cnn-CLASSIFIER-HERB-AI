@@ -16,7 +16,7 @@ Identificar y clasificar enfermedades en cultivos mediante redes convolucionales
 
 ## Modelos
 
-### **VGG-16**
+### *VGG-16*
 Transfer learning, fine-tuning, GlobalAveragePooling, softmax, imagenet weights
 
 ### Vision Transformer Clasifier
