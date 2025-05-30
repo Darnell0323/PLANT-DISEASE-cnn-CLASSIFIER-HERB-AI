@@ -32,4 +32,4 @@ Compound scaling, depthwise separable convolutions, transfer learning, lightweig
 
 1. [Implementacion en colab](https://colab.research.google.com/drive/1-jIcWLvyPKb4BJMt93VJR5kQrrVWQQg3?usp=sharing)
 2. [Video]()
-3. [Diapositivas]()
+3. [Diapositivas](Diseases%Plant%Clasifier.pdf)
