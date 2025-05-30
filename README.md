@@ -16,7 +16,7 @@ Identificar y clasificar enfermedades en cultivos mediante redes convolucionales
 
 ## Modelos
 
-### *VGG-16*
+### ***👌VGG-16***
 Transfer learning, fine-tuning, GlobalAveragePooling, softmax, imagenet weights
 
 ### Vision Transformer Clasifier
@@ -27,3 +27,9 @@ Residual blocks, skip connections, batch normalization, transfer learning, image
 
 ### EfficientNetB0
 Compound scaling, depthwise separable convolutions, transfer learning, lightweight architecture, imagenet weights
+
+## Codigo
+
+1. [Implementacion en colab][https://colab.research.google.com/drive/1-jIcWLvyPKb4BJMt93VJR5kQrrVWQQg3?usp=sharing]
+2. [Video][]
+3. [Diapositivas][]
