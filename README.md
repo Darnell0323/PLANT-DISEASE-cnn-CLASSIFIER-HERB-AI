@@ -31,5 +31,5 @@ Compound scaling, depthwise separable convolutions, transfer learning, lightweig
 ## Codigo
 
 1. [Implementacion en colab](https://colab.research.google.com/drive/1-jIcWLvyPKb4BJMt93VJR5kQrrVWQQg3?usp=sharing)
-2. [Video]()
+2. [Video](https://youtu.be/R8eboofkWXA)
 3. [Diapositivas](Diseases%20Plant%20CNN%20Clasifier.pdf) *Para visualizar correctamente se recomienda descargar*
